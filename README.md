@@ -1,4 +1,4 @@
-#Placar de Licitações
+# Placar de Licitações
 
 O objetivo deste script é buscar as novas licitações publicadas diariamente no Diário Oficial da União - DOU.
 
